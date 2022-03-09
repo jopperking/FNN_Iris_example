@@ -1,4 +1,4 @@
-##  بسم اللّه الرحمن الرحیم
+##  بسم الله الرحمن الرحیم
 
 Hi! I'm Jopperking a noober in coding :)! I LOVE  Deep Learning and AI!
  
